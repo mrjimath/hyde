@@ -4,9 +4,9 @@ highlighter:      pygments
 
 # Setup
 title:            mrjimath
-tagline:          'Neighborhood 3.14-friendly math teacher.'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+tagline:          'Neighborhood, 3.14-friendly math teacher.'
+description:      'Neighborhood, 3.14-friendly math teacher.'
+url:              http://mrjimath.github.io
 baseurl:          /
 
 author:
@@ -16,7 +16,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          
 
 github:
   repo:           
